@@ -10,6 +10,6 @@ Observations:
    While the count is highest for Lab Technicians, Sales Representatives have the highest percentage of attrition relative to their total role count, indicating role-specific dissatisfaction.
 
 Conclusion:
-Employee retention efforts should focus on mid-tenure employees (2-5 years) and those in their late 20s and early 30s, as they are the most vulnerable to attrition.
-Targeted interventions like career progression opportunities, competitive compensation, and skill development programs can help retain talent in critical roles like Lab Technicians and Sales Representatives.
-For long-term employees (10+ years), the 0% attrition rate suggests strong loyalty, which can be leveraged for mentorship or leadership programs.
+1. Employee retention efforts should focus on mid-tenure employees (2-5 years) and those in their late 20s and early 30s, as they are the most vulnerable to attrition.
+2. Targeted interventions like career progression opportunities, competitive compensation, and skill development programs can help retain talent in critical roles like Lab Technicians and Sales Representatives.
+3. For long-term employees (10+ years), the 0% attrition rate suggests strong loyalty, which can be leveraged for mentorship or leadership programs.
